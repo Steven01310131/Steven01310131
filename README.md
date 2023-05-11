@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Steven01310131
-- 👀 I’m interested in data engineering 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Stefanos Tsbanakis
+- 👀 I’m interested in data engineering and DevOps 
+- 🌱 I’m currently learning Computational Scince
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me stefanos.tsabanakis@gmail.com
 
